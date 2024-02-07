@@ -1,4 +1,4 @@
-"use client"; // This is a client component 👈🏽
+"use client";
 
 const Home = () => {
   return <h1>LightCI Todo App</h1>;
