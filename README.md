@@ -7,24 +7,12 @@ npm install
 npm run dev
 ```
 
-Go to localhost:3000
+Go to http://localhost:3000
 
 ## Instructions
 
-We will create a simple To Do app together.
+We will create a simple To Do app together. The app will display todos.
 
-see app1.jpg in this directory
+see UX.png in this directory for the UX design.
 
-1. Create ability to add todos
-
-If there is time remaining
-
-2. Create ability to remove todos
-
-If we have time we may move onto V2. This will mainly be a quick design discussion.
-
-see app2.jpg in this directory.
-
-## Notes
-
-Feel free to use copilot, google, chatgpt
+You can put your code in /src/app/page.tsx.
